@@ -11,7 +11,7 @@ Web Developer.
 
 A summary of my Github activity.
 
-![Tega](https://github-readme-stats.vercel.app/api?username=grayoj&hide=contribs,)
+![Tega](https://github-readme-stats.vercel.app/api?username=T-E-G-A&hide=contribs,)
 
 ### Language Statistics.
 HTML, CSS, Python, PHP and lately JavaScript 
