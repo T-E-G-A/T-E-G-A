@@ -45,7 +45,7 @@ I am a final-year Computer Science student with a strong passion for technology.
 ![RESTful APIs](https://img.shields.io/badge/Tool-RESTful%20APIs-orange)
 
 ## Projects & Portfolio
-Check out my [portfolio website](https://t-e-g-a.github.io/CV-WEB/) to see my work in action.
+[portfolio website](https://t-e-g-a.github.io/CV-WEB/)
 
 
 ## Contact
