@@ -60,6 +60,9 @@ Check out my [portfolio website](https://t-e-g-a.github.io/CV-WEB/) to see my wo
 
 ## WakaTime Stats
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EDWARDOVIASOGIE&range=all_time)
-
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EDWARDOVIASOGIE&range=last_30_days)
+![WakaTime stats](https://github-readme-stats-wakatime.vercel.app/api/wakatime?username=EDWARDOVIASOGIE&range=all_time)
+![WakaTime stats](https://github-readme-stats-wakatime.vercel.app/api/wakatime?username=EDWARDOVIASOGIE&range=all_time&type=languages)
+![WakaTime stats](https://github-readme-stats-wakatime.vercel.app/api/wakatime?username=EDWARDOVIASOGIE&range=all_time&type=editors)
 
 Feel free to explore my [GitHub repositories](https://github.com/T-E-G-A?tab=repositories) to see more of my work!
