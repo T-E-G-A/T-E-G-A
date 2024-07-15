@@ -59,7 +59,5 @@ Check out my [portfolio website](https://t-e-g-a.github.io/CV-WEB/) to see my wo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-E-G-A&layout=compact&theme=radical)
 
 ## WakaTime Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&range=all_time)
 Feel free to explore my [GitHub repositories](https://github.com/T-E-G-A?tab=repositories) to see more of my work!
