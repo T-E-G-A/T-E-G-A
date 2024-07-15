@@ -20,7 +20,7 @@ I am a final-year Computer Science student with a strong passion for technology.
 ## Skills
 
 ### Soft Skills
-![Problem Solving](https://img.shields.io/badge/Soft%20Skills-Problem%20Solving-blue)
+[Problem Solving](https://img.shields.io/badge/Soft%20Skills-Problem%20Solving-blue)
 ![Customer Service](https://img.shields.io/badge/Soft%20Skills-Customer%20Service-blue)
 ![Adaptability](https://img.shields.io/badge/Soft%20Skills-Adaptability-blue)
 ![Collaboration](https://img.shields.io/badge/Soft%20Skills-Collaboration-blue)
