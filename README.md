@@ -47,15 +47,12 @@ I am a final-year Computer Science student with a strong passion for technology.
 ## Projects & Portfolio
 Check out my [portfolio website](https://t-e-g-a.github.io/CV-WEB/) to see my work in action.
 
-### Notable Projects
-- [Project 1](https://github.com/T-E-G-A/project1): A brief description of what this project does.
-- [Project 2](https://github.com/T-E-G-A/project2): A brief description of what this project does.
 
 ## Contact
 - **Email**: [edwardoviasogie@gmail.com](mailto:edwardoviasogie@gmail.com)
 - **Phone**: +44 7481 389308
 - **LinkedIn**: https://www.linkedin.com/in/edward-oviasogie-870941240/
-- 
+  
 
 ## GitHub Stats
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-E-G-A&show_icons=true&theme=radical)
