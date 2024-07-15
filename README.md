@@ -54,6 +54,8 @@ Check out my [portfolio website](https://t-e-g-a.github.io/CV-WEB/) to see my wo
 ## Contact
 - **Email**: [edwardoviasogie@gmail.com](mailto:edwardoviasogie@gmail.com)
 - **Phone**: +44 7481 389308
+- **LinkedIn**: [https://www.linkedin.com/in/edward-oviasogie-870941240/]
+- 
 
 ## GitHub Stats
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-E-G-A&show_icons=true&theme=radical)
