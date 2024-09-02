@@ -58,8 +58,6 @@ I am a final-year Computer Science student with a strong passion for technology.
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-E-G-A&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-E-G-A&layout=compact&theme=radical)
 
-## WakaTime Stats
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EDWARDOVIASOGIE&range=last_7_days)
 
 
 Feel free to explore my [GitHub repositories](https://github.com/T-E-G-A?tab=repositories) to see more of my work!
