@@ -1,12 +1,12 @@
 
 
 ## About Me
-I am a final-year Computer Science student with a strong passion for technology. I aim to leverage my proficiency in various programming languages and web development to contribute to a positive and productive atmosphere. I am committed to achieving objectives through meticulous, collaborative, and innovative problem-solving. My curious nature and rapid learning ability enable me to analyze complex problems and deliver effective, innovative solutions, whether working independently or in team settings.
+I have a strong passion for technology. I aim to leverage my proficiency in various programming languages and web development to contribute to a positive and productive atmosphere. I am committed to achieving objectives through meticulous, collaborative, and innovative problem-solving. My curious nature and rapid learning ability enable me to analyze complex problems and deliver effective, innovative solutions, whether working independently or in team settings.
 
 ## Education
-- **BEng Computer Science** - Anglia Ruskin University (Ongoing)
-- **ICT & Computer Training** - Bizmarrow Technologies, Abuja (2022)
-- **Community Secondary School Asokoro** (2021)
+- **BEng Computer Science** - Anglia Ruskin University
+- **ICT & Computer Training** - Bizmarrow Technologies, Abuja
+
 
 ## Experience
 ### Apple
