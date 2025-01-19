@@ -5,7 +5,8 @@ I have a strong passion for technology. I aim to leverage my proficiency in vari
 
 ## Education
 - **BEng Computer Science** - Anglia Ruskin University
-- **ICT & Computer Training** - Bizmarrow Technologies, Abuja
+- **Fullstack web design and development** - Bizmarrow Technologies, Abuja
+- **Python Foundations** - Bizmarrow Technologies, Abuja
 
 
 ## Experience
