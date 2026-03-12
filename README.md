@@ -51,7 +51,6 @@ I have a strong passion for technology. I aim to leverage my proficiency in vari
 
 ## Contact
 - **Email**: [edwardoviasogie@gmail.com](mailto:edwardoviasogie@gmail.com)
-- **Phone**: +44 7481 389308
 - **LinkedIn**: https://www.linkedin.com/in/tega-oviasogie-870941240/
   
 
