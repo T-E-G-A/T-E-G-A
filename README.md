@@ -11,7 +11,7 @@ I have a strong passion for technology. I aim to leverage my proficiency in vari
 
 ## Experience
 ### Apple
-**Technical Specialist** (April 2024 – Present)
+**Technical Specialist** (April 2024 – April 2025)
 - **Innovating Technical Assistance**: Spearheaded unique approaches to troubleshooting, resolving complex hardware and software issues across Apple products with exceptional efficiency.
 - **Cross-Functional Collaboration**: Pioneered initiatives with diverse teams to tackle intricate technical challenges, fostering seamless problem-solving and enhanced customer experiences.
 - **Customized Customer Solutions**: Crafted tailored recommendations and solutions, significantly boosting customer satisfaction and loyalty to the Apple brand through personalized engagement.
